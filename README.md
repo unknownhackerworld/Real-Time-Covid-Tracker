@@ -34,6 +34,7 @@ DM me on [Instagram](www.instagram.com/tamizhan.ml) for anything!!!
 #### colored (pip install colored)
 #### matplotlib (pip install matplotlib,  *Even tkinter is needed to use this* )
 #### datetime (pip install datetime)
+#### and tabulate (pip install tabulate)
 
 
 ####  This displays Data in piechart form using matplotlib
