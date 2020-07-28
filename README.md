@@ -25,3 +25,18 @@ DM me on [Instagram](www.instagram.com/tamizhan.ml) for anything!!!
 ```html
 <!--Ends Here-->
 ```
+
+# About this Project
+
+#### This project is completely done with and its libraries. This project gives you the Covid 19 data in realtime.
+#### Some llibraries is needed to be download using pip command. They are:
+#### covid (pip install covid)
+#### colored (pip install colored)
+#### matplotlib (pip install matplotlib,  *Even tkinter is needed to use this* )
+#### datetime (pip install datetime)
+
+
+####  This displays Data in piechart form using matplotlib
+-- ** Developed by Unknown ~~guy~~ Hacker :male_detective: **
+
+ 
